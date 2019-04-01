@@ -21,3 +21,5 @@ CS224n 스터디 레포지토리입니다.
 
 * [@jeongukjae](https://github.com/jeongukjae)
 * [@juungbae](https://github.com/juungbae)
+* [@seo-jinBro](https://github.com/seo-jinBro)
+* [@Baekyeongmin](https://github.com/Baekyeongmin)
