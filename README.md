@@ -8,7 +8,7 @@ CS224n 스터디 레포지토리입니다.
 
 ## 스터디 진행 일자
 
-1. 2019년 4월 7일: Lecture 1 & Lecture 2
+1. [2019년 4월 7일: Lecture 1 & Lecture 2](./studies/1.md)
 2. 2019년 4월 14일: Lecture 3 & Lecture 4
 3. 2019년 4월 21일: Lecture 5 & Lecture 6
 4. 2019년 5월 12일: Lecture 7 & Lecture 8
